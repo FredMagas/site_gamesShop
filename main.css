@@ -34,6 +34,10 @@ header nav li a {
     text-decoration: none;
 }
 
+header nav li a:hover {
+    color: #989999;
+}
+
 .container {
     max-width: 1280px;
     width: 100%;
